@@ -1,0 +1,28 @@
+{
+  "name": "fez-react",
+  "version": "0.0.1",
+  "description": "Transform React JSX using Fez",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabberworm/fez-react.git"
+  },
+  "keywords": [
+    "fez",
+    "react",
+    "jsx"
+  ],
+  "author": "Raphael Schweikert <any@sabberworm.com> (http://sabberworm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabberworm/fez-react/issues"
+  },
+  "homepage": "https://github.com/sabberworm/fez-react",
+  "dependencies": {
+    "react-tools": "~0.9.0",
+    "bluebird": "~1.0.8"
+  }
+}
